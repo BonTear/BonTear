@@ -1,6 +1,5 @@
 # 👾 Core:
-<img width="200" height="200" alt="5848152fcef1014c0b5e4967" src="https://github.com/user-attachments/assets/6722f7e3-95f6-456b-8ea8-f76233e79edf"/>
-
+![Python](https://github.com/BonTear/BonTear/blob/main/python-logo-inkscape.png)
 # 💻 Known Languages:
 ![JS](https://skillicons.dev/icons?i=js)
 ![Cpp](https://skillicons.dev/icons?i=cpp)
