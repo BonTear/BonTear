@@ -1,5 +1,5 @@
 # 👾 Core:
-![Python](https://skillicons.dev/icons?i=py)
+<img width="200" height="200" alt="5848152fcef1014c0b5e4967" src="https://github.com/user-attachments/assets/6722f7e3-95f6-456b-8ea8-f76233e79edf"/>
 
 # 💻 Known Languages:
 ![JS](https://skillicons.dev/icons?i=js)
