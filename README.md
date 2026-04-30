@@ -13,8 +13,6 @@
 # 📚 Others:
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
 ![Arduino](https://skillicons.dev/icons?i=arduino)
-#
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=BonTear&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 # 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raphaelsamadder@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b0ntear) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/B0NTEAR)
 
